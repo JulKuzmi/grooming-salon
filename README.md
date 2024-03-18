@@ -1,1 +1,3 @@
-# Grooming-Salon
+# Проект Groomin Salon
+
+Разработка сайта для грумминг салона
