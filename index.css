@@ -1,0 +1,40 @@
+* {
+  margin: 0%;
+  padding: 0%;
+}
+body {
+  font-family: "Times New Roman", Times, serif;
+  /* font-weight: 400; */
+}
+
+a {
+  text-decoration: none; /* для любой будущей ссылки убираю нижнее подчеркивание*/
+}
+
+img {
+  max-width: 100%; /*чтобы наши img не выползали за пределы род.блока*/
+}
+* .wrapper {
+  background-color: aqua;
+}
+
+.conteiner {
+  width: 1400px;
+  margin: auto;
+}
+
+header .logo {
+  text-transform: uppercase;
+  font-size: 30px;
+}
+
+header nav {
+  float: right;
+  width: 50%;
+}
+
+header nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+}
