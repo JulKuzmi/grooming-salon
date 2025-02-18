@@ -1,0 +1,19 @@
+* {
+  margin: 0%;
+  padding: 0%;
+}
+body {
+  font-family: "Times New Roman", Times, serif;
+  /* font-weight: 400; */
+}
+
+a {
+  text-decoration: none; /* для любой будущей ссылки убираю нижнее подчеркивание*/
+}
+
+img {
+  max-width: 100%; /*чтобы наши img не выползали за пределы род.блока*/
+}
+* .wrapper {
+  background-color: aqua;
+}
